@@ -13,4 +13,4 @@ To make it more interesting and challenging we'll add things such as:
   Host “tenants” (smaller businesses) within the same building while ensuring proper network segregation.
 
 - **VPN**
-  Building a VPN so that remote users can access the company network and the network technician to be able to access the devices.
+  Building a VPN so that remote users can access the company network and for the network technician to be able to access the devices.
